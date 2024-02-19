@@ -12,4 +12,5 @@
 <a href="mailto:jinggu.dev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 - ⚡ Fun fact: I learned quite a lot of devOps knowledge from the IT fiction "Phoenix project"
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jing-gu&show_icons=true&layout=compact)](https://github.com/jing-gu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jing-gu&show_icons=true&layout=compact&hide_border=true&role=owner,collaborator)](https://github.com/jing-gu)
+
