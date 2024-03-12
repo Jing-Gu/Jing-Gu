@@ -11,10 +11,11 @@
 
 ### Languages and Tools
 <p align=left>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/452156/angular.svg" alt="angular" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="javascript" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/353912/ionic-icon.svg" alt="ionic" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354261/reactivex.svg" alt="rxjs" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/353600/contentful.svg" alt="contentful" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -24,8 +25,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/353662/docusaurus.svg" alt="docusaurus" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/448222/figma.svg" alt="figma" width="40" height="40"/>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jing-gu&show_icons=true&layout=compact&hide_border=true)](https://github.com/jing-gu)
