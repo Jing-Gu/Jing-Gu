@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 💻 I’m a frontend developer, working on Angular related web apps.
-- 🌱 I’m currently learning Java (syntax close to Angular) as a backend language.
+- 💻 I’m a web developer, working on Angular related web apps.
+- 🌱 I’m currently learning Python as a backend language.
 - 🇨🇦 Based in Montreal
 
 - 📫 How to reach me:
