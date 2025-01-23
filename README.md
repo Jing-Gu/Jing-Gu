@@ -2,7 +2,7 @@
 
 - 💻 I’m a web developer, working on Angular related web apps.
 - 🌱 I’m currently learning Python as a backend language.
-- 🇨🇦 Based in Montreal
+- 🍁 Live in Montreal
 
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/jing-gu-b369a85b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
