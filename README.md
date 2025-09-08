@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 💻 I’m a web developer, working on Angular related web apps.
-- 🌱 I’m currently learning Python as a backend language.
 - 🍁 Live in Montreal
 
 - 📫 How to reach me:
